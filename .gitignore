@@ -44,3 +44,11 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
+
+# Local Python environment and API credentials
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]

@@ -2,6 +2,8 @@
 
 Course material.
 
+For the recovered evaluations notebook, see [Colab in VS Code](COLAB_IN_VSCODE.md).
+
 ## Getting started
 
 1. Fork this repo: click **Fork** at the top of this page.
