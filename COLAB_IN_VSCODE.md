@@ -5,7 +5,7 @@ This checkout is your fork: https://github.com/Sal-Faris/sain-coursework.
 ## Open your coursework
 
 1. In VS Code, open this **sain-coursework** folder with **File > Open Folder**.
-2. Open `technical/evaluations/Assignment_1_Intro_to_Evals.ipynb` to continue the course assignment. Your recovered code through the alignment-faking exercise is filled in. The discussion, threat-modeling and question-design exercises are still yours to complete.
+2. Open `technical/evaluations/Assignment_1_Intro_to_Evals.ipynb` to continue the course assignment. The recovered code, conceptual discussion, voice-based threat-model and specification answers, three MCQs, and testing code are filled in. Check the completion note at the end for execution status; live API outputs still need to be saved.
 3. At the notebook's top right, choose **Select Kernel > Colab > Auto Connect**. Sign in to Google if prompted. The official **Google Colab** and **Jupyter** extensions are already installed on this computer.
 4. Run the setup cells, then work down the notebook. Packages and data are prepared inside the Colab runtime. You do not need a local Python environment or Google Drive storage.
 5. In the API-client cell, an existing `OPENROUTER_API_KEY` environment variable or Colab secret is used when available. Otherwise enter your key into the hidden input prompt. Keep the key out of code cells and outputs.
